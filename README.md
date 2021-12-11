@@ -1,1 +1,1 @@
-# k-thu-t-l-p-tr-nh
+# file git môn kỹ thuật lập trình
